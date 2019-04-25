@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 from ui import run_webserver
 from ui import run_gzh_crawler
 
