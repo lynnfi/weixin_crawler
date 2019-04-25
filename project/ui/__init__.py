@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 from ui.ui_instance import app, socketio, the_redis
 from Application.gzh_category import GZHCategory
 from Application.gzh_crawler import GZHCrawler
